@@ -14,6 +14,7 @@
 - Are your Scrum team members...
     - doing the right thing?
     - tackling the hard problems?
+
 ###Events
 ###Roles
 ###Artifacts
