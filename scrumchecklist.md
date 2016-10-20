@@ -28,6 +28,7 @@
 
 ####Respect
 - Do your Scrum team members respect each other to be capable, independent people?
+
 ###Events
 ####Sprint Planning
 - Does the entire Scrum Team collaborate to plan the work of the upcoming Sprint?
@@ -39,6 +40,7 @@
         - Is the Development Team allowed to choose the forecasted work?
         - Does the Scrum Team collectively form a Sprint Goal based on the forecasted PBI's?
     - How will the work needed to deliver the Increment be achieved?
+    
 ###Roles
 ###Artifacts
 ##Recommended
