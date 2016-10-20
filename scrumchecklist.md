@@ -33,6 +33,7 @@
 ####Sprint Planning
 - Do the attendants understand the purpose of Sprint Planning?
 - Does the entire Scrum Team collaborate to plan the work of the upcoming Sprint?
+- Does the Scrum Team include outside members when needed?
 - Does the event consistently conclude within it's time box?
 - Are the following questions answered:
     - What can be delivered in the Increment resulting from the upcoming Sprint?
@@ -40,6 +41,7 @@
         - Is the Development Team allowed to choose the forecasted work?
         - Does the Scrum Team collectively form a Sprint Goal based on the forecasted PBI's?
     - How will the work needed to deliver the Increment be achieved?
+    
     
 ####Daily Scrum
 - Does the Scrum Team understand the purpose of the Daily Scrum?
