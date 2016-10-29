@@ -42,17 +42,6 @@
         - Does the Scrum Team collectively form a Sprint Goal based on the forecasted PBI's?
     - How will the work needed to deliver the Increment be achieved?
     
-    
-####Sprint Review
-- Does the entire Scrum team attend?
-- Are stakeholders included?
-- Do the attendants understand the purpose of Sprint Review?
-- Is "Done" Increment inspected?
-- Is the Product Backlog inspected?
-- Do all collaborate on what to do next?
-- Is the marketplace or potential use of the product inspected for change?
-- If needed, is the Product Backlog adapted as a result of Sprint Review?
-
 ####Daily Scrum
 - Does the Scrum Team understand the purpose of the Daily Scrum?
 - Does the Development Team conduct the Daily Scrum:
@@ -66,6 +55,28 @@
     - forecast the work that could be done before the next Daily Scrum?
     - make a plan for accomplishing the 24 hour forecast?
     
+####Sprint Review
+- Does the entire Scrum team attend?
+- Are stakeholders included?
+- Do the attendants understand the purpose of Sprint Review?
+- Is "Done" Increment inspected?
+- Is the Product Backlog inspected?
+- Do all collaborate on what to do next?
+- Is the marketplace or potential use of the product inspected for change?
+- If needed, is the Product Backlog adapted as a result of Sprint Review?
+
+####Sprint Retrospective
+- Does the entire Scrum Team attend?
+- Do the attendants understand the purpose of Sprint Retrospective?
+- Does the Scrum Team keep to the time box?
+- Does the Scrum Team regularly inspect:
+    - People?
+    - Relationships?
+    - Process?
+    - Tools?
+- Does the Scrum Team regularly create plans to improve how it works?
+- Does the team regularly improve itself as a result of the Sprint Retrospective?
+
 ###Roles
 ###Artifacts
 ##Recommended
